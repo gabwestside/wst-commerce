@@ -1,1 +1,1 @@
-# Westside-Commerce
+# WestsideCommerce
